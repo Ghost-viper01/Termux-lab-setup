@@ -1,1 +1,1 @@
-Termux lab setup
+Termux
